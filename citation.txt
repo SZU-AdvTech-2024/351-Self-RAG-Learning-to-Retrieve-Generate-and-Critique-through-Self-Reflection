@@ -1,0 +1,7 @@
+@inproceedings{REPO351,
+    author = "Asai, Akari and Wu, Zeqiu and Wang, Yizhong and Sil, Avirup and Hajishirzi, Hannaneh",
+    booktitle = "The Twelfth International Conference on Learning Representations",
+    title = "{Self-{RAG}: Learning to Retrieve, Generate, and Critique through Self-Reflection}",
+    url = "https://openreview.net/forum?id=hSyW5go0v8",
+    year = "2024"
+}
